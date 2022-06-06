@@ -1,424 +1,133 @@
 id,left_brand,left_productName,left_price,right_brand,right_productName,right_price
-999999,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Bio-uien,0.0000
-1000000,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,FOU D'O,Bruisend water munt 6x50 cl,2.5900
-1000001,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,EL CULTIVADOR BIO,Bio-olijfolie,3.9900
-1000002,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MAMIE POULE BIO,Bio-eieren 6 st.,2.3900
-1000003,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PORTLAND,Kruiden,0.9900
-1000004,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Kruiden in zakjes,1.4900
-1000005,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MENUTO,Instantsoep 5 zakjes,0.8500
-1000006,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MENUTO,Instantsoep 5 zakjes,0.8500
-1000007,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Soep in zakjes,1.2900
-1000008,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,WESTMINSTER,Vruchten- of kruidenthee,1.0900
-1000009,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,FRESHLIFE,Gevulde kauwgom munt,1.9900
-1000010,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MILSANI BIO,Bio-ontbijtyoghurt,0.8500
-1000011,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,AH,Munt grootverpakking,1.4900
-1000012,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bonduelle,Kikkererwten bio,2.3900
-1000013,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,AH,Vers sap munt-peer-mango,2.3900
-1000014,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bonduelle,Crispy mais bio,1.9900
-1000015,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bonduelle,Bio crispy maïs 2 mini's,2.5900
-1000016,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bonduelle,Crispy maïs bio,1.5900
-1000017,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Oatly!,Haverdrank Bio,1.9900
-1000018,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Zanetti,Bio burrata,3.0900
-1000019,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Costa Ligure,Pesto genovese bio,2.9900
-1000020,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Oatly!,Haver cuisine bio,1.2900
-1000021,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Lois Harmony,Bio Ghee (Geklaarde Boter),4.9900
-1000022,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Oatly!,Verse Haverdrank Bio,1.9900
-1000023,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,AH,Bruisend mineraalwater munt,0.6500
-1000024,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Go-Tan,Organic coconut milk bio,2.2900
-1000025,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,AH,Bruisend mineraalwater munt,2.2900
-1000026,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pickwick,Kamille kruidenthee,1.9900
-1000027,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,So Vegan So Fine,Pure chocoladepasta bio,2.9900
-1000028,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pickwick,Slaap lekker kruidenthee,2.4900
-1000029,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Belvoir,Ginger cordial bio,3.9900
-1000030,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Mutti,Tomatenpulp in stukjes bio,1.5900
-1000031,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Mutti,Gepelde tomaten bio,1.3900
-1000032,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pickwick,Sterrenmunt kruidenthee,1.5900
-1000033,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Ella's Kitchen,Aardbeien yoghurt 6+ bio,1.2900
-1000034,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Belvoir,Elderflower cordial bio,3.9900
-1000035,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Heinz,Tomaten ketchup bio,2.9900
-1000036,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Ella's Kitchen,Bananen + kokos 4+ bio,1.6900
-1000037,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Belvoir,Lemon mint cordial bio,4.0900
-1000038,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Oral-B,Floss munt,2.1900
-1000039,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Ella's Kitchen,Pruimen 4+ bio,1.4900
-1000040,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carapelli,Bio extra vergine,8.2400
-1000041,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Ecover,WC-reiniger den & munt,1.7900
-1000042,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Alter Eco,Dark chocolate peru 85% bio,2.5900
-1000043,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Verstegen,Strooier munt,2.4900
-1000044,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Alter Eco,Dark chocolate peru 90% bio,2.7900
-1000045,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Boerinneke Marino,Rijstmelkpasta bio,4.9900
-1000046,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pickwick,Spijsvertering kruidenthee,2.4900
-1000047,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Lois Harmony,Bio Kokosolie (Extra Virgin),3.4900
-1000048,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Alter Eco,Dark chocolate peru 75% bio,2.5900
-1000049,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Ella's Kitchen,Mango's 4+ bio,1.3500
-1000050,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,munt plant,1.0900
-1000051,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Bio kurkuma,1.4900
-1000052,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,bio blauwe bessen,2.9900
-1000053,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,kiwi bio,0.5900
-1000054,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,bananen Fairtrade,1.9800
-1000055,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,bio amandelen,4.9800
-1000056,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,varkenspiering Bio,13.8000
-1000057,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Bio bbq kotelet zonder been,21.5400
-1000058,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,kip Bio,11.3500
-1000059,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,kipfilet Bio,23.2900
-1000060,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,kippenbil Bio,12.9900
-1000061,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GANDA,gedr.ham bio gv,5.1900
-1000062,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DREAM,haverdrink Bio,2.6000
-1000063,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DAMSE MOKKE,geitenkaas bio,23.8000
-1000064,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yoghurt mager natuur Bio,2.9000
-1000065,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yog.mager natuur bio glas,2.1900
-1000066,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,magere yoghurt bio,2.6900
-1000067,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yogh.lactosevrij nat.bio,2.8500
-1000068,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,BIO skyr,2.4900
-1000069,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yogh.vol aardb.bio glas,5.2400
-1000070,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yogh.vol bosb.bio glas,5.2400
-1000071,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yoghurt vol bosbes bio,4.4500
-1000072,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yoghurt vol van.bio glas,1.9900
-1000073,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yogh.vol gran.ap.bio glas,2.0900
-1000074,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yoghurt vol aardbei bio,4.5500
-1000075,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yoghurt vol nat.bio glas,1.7900
-1000076,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yoghurt vol natuur bio,2.8000
-1000077,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yogh. vol nat. bio,4.2500
-1000078,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,yogh.vol rietsuiker bio,4.1500
-1000079,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,Bio aardbei,3.5900
-1000080,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,Bio banaan,3.5900
-1000081,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,Greek Style natuur bio,4.6500
-1000082,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,Skyr yoghurt bosbes Bio,3.1500
-1000083,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,Skyr perzik maracuja bio,3.0500
-1000084,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DE TROG,sandwiches Bio,3.5900
-1000085,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BOERINNEKE,choco rijst lv-gv bio,4.9900
-1000086,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur 4 vruchten Bio,3.7400
-1000087,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MELI,bio honing Squeeze,4.8500
-1000088,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur aardbei Bio,3.7400
-1000089,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,FIORDIFRUTTA,bio aar&wil.aar.conf.,4.8700
-1000090,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur vijgen Bio,3.8900
-1000091,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur sinaasappel Bio,3.9800
-1000092,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,FIORDIFRUTTA,bio conf.citrus&gember,4.8200
-1000093,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,NESTLÉ NESQUIK,Cereal Bio,4.3900
-1000094,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,JORDANS GRANOLA,bio org.choc&cocon.,4.2500
-1000095,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur frambozen Bio,4.3000
-1000096,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur krieken Bio,3.9900
-1000097,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,confituur bosbessen Bio,4.8500
-1000098,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,LIMA,muesli original bio,6.7700
-1000099,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DR. KARG'S,spelt&zaden bio,3.0900
-1000100,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GOOD GOUT,bio mini rijstw.blauwe bes,2.1400
-1000101,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,SCHOCK'S,notenrepen Nussmix bio,2.3000
-1000102,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BILLY'S FARM,volk.mueslikoeken bio,2.8900
-1000103,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VERMEIREN,Specul. Choc.Chips bio ft,1.5900
-1000104,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,Fairtrade melk kar. zeezout,1.7900
-1000105,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,likeurpralines Fairtrade,3.8900
-1000106,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CARDI,zure wormen gv lv bio,1.9900
-1000107,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CÔTE D'OR,BIO POINTE DE SEL 70%,2.4900
-1000108,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CÔTE D'OR,noir 70% BIO,2.4900
-1000109,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CÔTE D'OR,bio mignonette 70% puur,5.4500
-1000110,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HAKUBAKU,noodles soba bio,3.8500
-1000111,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HAKUBAKU,noodles udon bio,4.0000
-1000112,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,KING SOBA,Thai Rice Noodles bio,2.5100
-1000113,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VICKS BLUE,munt sv box,2.0500
-1000114,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,TREFIN,bonbon Hartmint munt,5.4000
-1000115,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,RICOLA,pastille sinaasappel munt sv,1.8900
-1000116,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,RICOLA,pastille citroen munt sv,1.4400
-1000117,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,OFAL,lange volle rijst bio,4.6900
-1000118,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VICKS BLUE,munt sv,2.9800
-1000119,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,IMPERIAL,suiker vanil.smaa.zakjes,1.0900
-1000120,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,OFAL,instantpolenta Bio,2.4900
-1000121,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,olijfolie extra vierge Bio,6.9900
-1000122,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CORICELLI,bio olijfolie ext.vierge,8.2900
-1000123,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DR.OETKER,chocolademousse 2 zakjes,4.3500
-1000124,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CANDICO,ruwe rietsuiker bio,5.2300
-1000125,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VALAYA,kokosbloesemsuiker bio,6.9900
-1000126,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HYGIENA,marsepein bio,4.9900
-1000127,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,OMEGA & MORE,kokosolie geurl.bio,6.6200
-1000128,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CANDICO,ruwe rietsuikerklontjes bio,5.1900
-1000129,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HEINZ,Tomato ketchup bio top-down,2.9900
-1000130,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,LA MACINA LIGURE,pesto gv bio bok,6.4900
-1000131,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BIONA,Pasta Sauce Arrabb. bio bok,2.5900
-1000132,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DE HOBBIT,gr.bouillon poed. bio bok,3.9900
-1000133,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MENGAZZOLI,balsamicoazijn wit bio,5.6900
-1000134,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MENGAZZOLI,balsamicoaz. Modena bio,5.6900
-1000135,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MATERNE,bio compote met stukjes,2.1500
-1000136,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,NOLIKO,maïskorrels z.suiker bio,1.4900
-1000137,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MEICA,Weense w. bio lv gv bok,5.9900
-1000138,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZAPETTI,ravioli pur boeuf bio,4.6500
-1000139,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,FAIREBEL,vanille ijs Bio,7.6900
-1000140,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VOLVIC,Infusion hibiscus Bio,1.5300
-1000141,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VOLVIC,Infusion maté Bio,2.0500
-1000142,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VOLVIC,Infusion Peach Bio,2.0500
-1000143,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MAY TEA,groene thee munt,2.1900
-1000144,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZAGAZOE!,Paw Patrol appelsap Bio,1.8900
-1000145,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,TERSCHELLINGER,Cranb.sap ongez. bio,8.9900
-1000146,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,OXFAM FAIRTRADE,pads Highland Bio,2.7900
-1000147,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,'T VLIERBOS,vlierbl.siroop bio ft,3.8500
-1000148,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZINNEBIR,"Belgian Pale Ale 5,8%Bio",7.2000
-1000149,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,SAISON DUPONT,"bl.bier 5,5%vol bio",3.8500
-1000150,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZAGAZOE!,Unicorn multivrucht Bio,1.9900
-1000151,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,LA TRAPPE,"puur 4,5% Bio",6.5900
-1000152,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,1836,"Gin Pink 37,5% Bio",28.7000
-1000153,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Bio Ch Fougas Côtes de Bourg,8.7900
-1000154,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Vacqueyras Nos Terroirs Bio,10.9900
-1000155,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Ste Hélène AOP Languedoc Bio,6.4900
-1000156,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Bio Château de Castets,7.6500
-1000157,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Adobe Carmenere Chili Bio,6.2600
-1000158,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Change Chardonnay IGP Oc Bio,7.6900
-1000159,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Change Sauvignon IGP Oc Bio,6.4900
-1000160,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Sangiovese Bio IGT Marche,4.7500
-1000161,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Luna AOP Fitou Bio,6.6500
-1000162,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Bio Laudum Nature Alicante,5.4900
-1000163,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Inycon Grillo Sicilia Bio,5.7900
-1000164,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,LAS MULAS,Reserve rosé Bio,5.9900
-1000165,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Adobe Chardonnay wit Bio,5.6500
-1000166,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GRAN BARON,Cava brut Bio,7.5900
-1000167,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ARESAN,Petalos Rosé Bio VT Castilla,4.7900
-1000168,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HIPP,bio combiotik 2 opvolgmelk,15.7900
-1000169,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HIPP,appel-perzik-mango 4-36M bio,2.8500
-1000170,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,bio mango 4m+,1.3500
-1000171,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GOOD GOUT,peer perzik 4M bio,1.6900
-1000172,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,strawb.-apple.4+ bio,1.7500
-1000173,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,bio per-ban.maisst7m+,1.6900
-1000174,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Génélis Languedoc rosé Bio,4.4900
-1000175,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HIPP,bio combiotik 3 groeimelk,14.7900
-1000176,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CANDIA,baby groeimelk 10-36m bio,2.1000
-1000177,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HIPP,gem.groenten 4m+ bio glas,3.5800
-1000178,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,baby multivruchten Bio,2.2900
-1000179,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HIPP,appel perzik bosvruchten bio,5.4500
-1000180,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ORGANIX,"comp.appel,kiwi,banaan bio",3.2900
-1000181,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,'T VLIERBOS,bio vlierbessensir. FT,3.1900
-1000182,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BIOVER,bio infusie slaap,4.7500
-1000183,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BIOVER,propolis spray den bio,7.2900
-1000184,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ORGANIX,po.hav-ap-ba-fr-bos.12M bio,0.9900
-1000185,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BY XLS,afslankthee munt,5.9600
-1000186,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HERO BABY,lange vingers 8m+ bio,3.0900
-1000187,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,stick aar-ban 6m+ bio,1.1900
-1000188,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GOOD GOUT,mini bag.tomaat 10M bio,2.9900
-1000189,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,car-mais stick 7+ bio,1.7500
-1000190,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GOOD GOUT,dierenkoekjes citr10m+ Bio,2.8900
-1000191,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,b.str-apple12m+ bio,3.5900
-1000192,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ORGANIX,rijstwafel appel bio,1.1900
-1000193,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ORGANIX,wortelknabbels bio,2.6900
-1000194,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,flosdraad munt fluor,0.9900
-1000195,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,snoep sv munt-eucalyptus pot,1.5900
-1000196,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,smoothie Green6m+ bio,1.1900
-1000197,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,smoothie Red 6m+ bio,0.9900
-1000198,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GOOD GOUT,knijpfruit aardbei-ba.bio,1.5200
-1000199,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,NESTLÉ NATURNES,bio appel peer,2.7500
-1000200,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ORGANIX,comp.ap-sin-ban-koek bio,3.5900
-1000201,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HEAD&SHOULDERS,shampoo munt,2.4900
-1000202,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,DEMAK'UP,droog katoen BIO rond,2.6900
-1000203,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,YANA,zakjes kattenbak L,8.6900
-1000204,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZIP,antiroet zakjes,4.1500
-1000205,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,sjalotten Bio,2.5800
-1000206,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,OXFAM FAIRTRADE,koffie Highland bio,4.6500
-1000207,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PASSENDALE,Bio gatenkaas 5sn.,3.7900
-1000208,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,krokante galetten Bio,2.6100
-1000209,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,A.VOGEL HERBAMARE,zeezout Orig.bio,5.3800
-1000210,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,bio rundburger,14.3500
-1000211,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,chipolata Bio,14.3000
-1000212,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,varkensgehakt Bio,12.7500
-1000213,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,americain natuur Bio,13.9500
-1000214,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,PUR NATUR,volle yog.fram.bio glas,5.2400
-1000215,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,NOCCIOLATA,bio hazelnootpasta,5.1700
-1000216,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,NOCCIOLATA,bio hazelnootpast.z.melk,5.6900
-1000217,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,thee munt infusion,0.9830
-1000218,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,LIPTON,Ginger & Lemon Bio,2.9900
-1000219,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GARNIER,Bio micellair water,5.0000
-1000220,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,verse munt,2.5900
-1000221,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,munt vers,1.3200
-1000222,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BOERINNEKE,bio hazelnootp.zo.palmo,5.1500
-1000223,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CÔTE D'OR,bio orange,2.4900
-1000224,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MOINETTE,"bier blond 7,5%vol bio",9.9900
-1000225,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,LE PETIT MARS.,dch bio roos/olijfb,2.7300
-1000226,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,Bio runderbrochette,26.2400
-1000227,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BERLOUMI,Chili munt,4.4900
-1000228,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,paashaas puur fairtrade,2.1900
-1000229,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZONNATURA,infusie goedemorgen Bio,2.1900
-1000230,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ZONNATURA,infus.goede nachtrust Bio,2.1700
-1000231,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,TEAMASTERS,Silky Touch Bio,4.3900
-1000232,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,TARAS BOULBA,"Bio 4,5%",6.6000
-1000233,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MATERNE,lokale appelcompote bio,2.5900
-1000234,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,IMPERIAL,tonijn in bio-olijfolie,5.5500
-1000235,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,VAHINE,grand cru Madagascar bio,3.9200
-1000236,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GARNIER,Bio dagcrème lavendel,9.3900
-1000237,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,CLIPPER,Lemon & Ginger Bio,2.6900
-1000238,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Cafeïnevrij 10 Stuks 52 g,2.9900
-1000239,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Gouda Sneetjes 200 g,1.9800
-1000240,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio 6 Verse Eieren M,2.0900
-1000241,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio 12 Verse Eieren M,4.1800
-1000242,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Candia,BABY Groeimelk Bio Pack 6x1L,12.9400
-1000243,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Candia,BABY Groeimelk Bio 1 L Fles,2.1000
-1000244,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Halfvolle Melk 6 x 1 L,5.9400
-1000245,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Camembert 250 g,3.1900
-1000246,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Volvic,Infusion Bio 6 x 0.75 L,12.8500
-1000247,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Volvic,Infusion Bio 6 x 0.75 L,12.8500
-1000248,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Vademecum,Bio Tandpasta Kids 1-6 Jaar,4.4500
-1000249,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Halfvolle Melk 6 x 50 cl,4.7400
-1000250,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Rijstdrank 1 L,1.4900
-1000251,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Soja Koken 25 cl,1.1900
-1000252,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Haverdrank 1 L,1.4900
-1000253,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt 750 g,3.0500
-1000254,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Bio Havermout 500 g,2.8600
-1000255,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Bio Acacia Honing 350 g,6.7800
-1000256,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Bio Granola Chocolade 300 g,4.2100
-1000257,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Dr. Karg's,Bio Chia & Haver 200 g,3.4800
-1000258,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Volle Melk 6 x 1 L,7.5000
-1000259,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Dr. Karg's,Bio Klassiek 3-Zaden 200 g,3.3600
-1000260,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Wafels 4 Granen 100 g,0.6900
-1000261,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Passendale,Classic Bio Sneden 150g,4.5900
-1000262,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt 500 g,1.9600
-1000263,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Mager 4 x 125 g,2.2400
-1000264,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Meli,Bio Bloemenhoning 250 g,5.0400
-1000265,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Bio Tahin Sesampasta 250 g,4.3600
-1000266,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Honduras 10 Stuks 52 g,2.7900
-1000267,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Lune de Miel,Bio Acaciahoning 375 g,7.2300
-1000268,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Havervlokken 500 g,1.3900
-1000269,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Vanille 150 g,1.0500
-1000270,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Mager 750 g,3.0500
-1000271,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nestlé,MIX Bio Ontbijtgranen 174 g,3.8900
-1000272,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Smaakt,Bio Bloemenhoning 350 g,5.6100
-1000273,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Smaakt,Bio Pindakaas Crunchy 350 g,3.8200
-1000274,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Karneboter Gezouten 200g,3.6500
-1000275,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Hazelnootpuree 170 g,3.9900
-1000276,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Amandelpuree Heel 170 g,3.9900
-1000277,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Tahin Sesampasta 350 g,3.9900
-1000278,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Président,le Brie Bio Organic 200 g,3.8500
-1000279,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt 150 g,0.9400
-1000280,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,L'OR,Koffie Capsules Espresso BIO Intensiteit 7 Nespresso®* Compatibel 10 stuks,3.7900
-1000281,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,L'OR,Koffie Capsules Espresso BIO Intensiteit 9 Nespresso®* Compatibel 10 stuks,4.1300
-1000282,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Verse Melk Vol 1 L,2.1300
-1000283,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Vanille 500 g,2.2800
-1000284,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Krokant Natuur 500 g,2.4900
-1000285,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Krokant 3 Noten 375 g,2.4900
-1000286,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Bosbes 500 g,3.2500
-1000287,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Kers 500 g,3.2500
-1000288,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio 100% Cacao 250 g,2.9900
-1000289,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Gezouten Maïswafels 120 g,0.6300
-1000290,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Vanilledessert 4 x 95 g,1.6900
-1000291,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Havermout Appel 400 g,3.2900
-1000292,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Lactel,Lichte Start Bio 6 x 50 cl,11.4900
-1000293,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Mager 500 g,2.2300
-1000294,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Salakis,100% Schapenmelk Bio 150 g,3.7500
-1000295,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt 6 x 125 g,4.3900
-1000296,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Framboos 160 g,1.6300
-1000297,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Verse Kaas 4 x 100 g,1.4500
-1000298,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Kokosmelk 330 ml,1.6900
-1000299,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Crème de Coco 330 ml,1.7500
-1000300,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Melk Halfvolle 50 cl,0.7900
-1000301,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Lactel,Lichte Start Bio 50 cl,1.9200
-1000302,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Soja Natuur 6 x 100 g,2.0900
-1000303,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Soja Chocolade 4 x 100 g,1.7500
-1000304,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Chocolademousse 2 x 70 g,2.7500
-1000305,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Kefir 400 g,2.0500
-1000306,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Rijst Hazelnoot 1 L,1.9900
-1000307,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Société,Roquefort Bio 100 g,4.3900
-1000308,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Bifidus Natuur 8 x 125 g,2.4900
-1000309,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Soja Natuur 400 g,1.6900
-1000310,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Soja Blauwe Bosbes 400 g,1.9900
-1000311,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bjorg,Crème de Coco Légère Bio 20 cl,2.2500
-1000312,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bjorg,Avoine Cuisine Bio 20 cl,2.0000
-1000313,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Volle Melk 1 L,1.2500
-1000314,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Halfvolle Melk 1 L,0.9900
-1000315,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Verse Kaas Natuur 150 g,2.0900
-1000316,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Abdijkaas 6 Sneden 200 g,2.9500
-1000317,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Signal,Bio Tandpasta Junior 50 ml,4.0500
-1000318,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Volvic,INFUSION BIO HIBISCUS 75CL,2.1500
-1000319,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Framboos 150 g,1.3600
-1000320,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Zonnatura,Bio Haverzemelen 350 g,3.0000
-1000321,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Abrikoos 150 g,1.3600
-1000322,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Skyr 400 g,2.6500
-1000323,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt 1 kg,3.1500
-1000324,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Zure Room 30% Vet 200 g,1.9900
-1000325,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Zure Room 20 cl,1.6500
-1000326,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Panna Cotta 2 x 125 g,2.8300
-1000327,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Balade,Bio Lichte Room 25 cl,2.6600
-1000328,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Bjorg,Bio Haver Drink Calcium 1L,3.1900
-1000329,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Céréal,Bio Agavesiroop 350 g,5.2000
-1000330,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Rombouts,Bio & Fairtrade Bonen 500 g,9.0900
-1000331,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Aardbei 150 g,1.3600
-1000332,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Bosbes 150 g,1.3600
-1000333,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Pur Natur,Bio Yoghurt Muesli 160 g,1.4400
-1000334,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,MAY TEA,groene thee munt,2.2900
-1000335,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Varkenskotelet 0.143 kg,3.1400
-1000336,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Spieringkotelet 0.210 kg,2.7600
-1000337,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Verse Balletjes 0.297 kg,4.9400
-1000338,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Chateaubriand 0.214 kg,6.4900
-1000339,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Chipolata,5.1500
-1000340,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Kip Filet 0.350 kg,8.4000
-1000341,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,BIO Kiwi groen 6 st,3.4900
-1000342,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Rozemarijn in pot,1.2500
-1000343,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Prei Los Verkocht,0.8000
-1000344,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Gesneden Spek 0.226 kg,4.6100
-1000345,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Peterselie in pot,1.1500
-1000346,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Salie in pot,1.1900
-1000347,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Munt in pot,1.1500
-1000348,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Wortelen 1 kg,1.2900
-1000349,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Look 2 st,0.9900
-1000350,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Kerstomaten Mix 250 g,2.4900
-1000351,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Tijm in pot,1.2500
-1000352,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Bieslook in pot,1.1500
-1000353,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Platte Peterselie in pot,1.1500
-1000354,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Bio Aubergines - 1 stuk,2.4000
-1000355,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Bio Trostomaten - 1 stuk,2.5900
-1000356,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Trostomaten 500 g,2.4900
-1000357,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Rode Bietscheuten 40 g,1.8900
-1000358,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Luzernescheuten 80 g,1.5900
-1000359,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Bio Courgetten - 2 stuks,1.8000
-1000360,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Bio Rode Paprika's - 1 stuk,1.7500
-1000361,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Bio Gember - 1 stuk,0.7500
-1000362,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Citroenen - 2 stuks,1.4700
-1000363,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Hespenworst 100 g,2.9900
-1000364,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Ontbijtspek 100 g,2.7500
-1000365,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Bloemkool,3.2500
-1000366,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Suikermaïs 2 Kolven,2.9900
-1000367,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Biokip Worst,5.2800
-1000368,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Wortels Bio - 5 stuks,0.7200
-1000369,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Bladspinazie 600 g,1.4900
-1000370,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio 8 Galetten 200 g,2.6900
-1000371,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Basilicum in pot,0.9900
-1000372,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Кір Vers,16.8000
-1000373,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Max Havelaar,Bananen Fairtrade 850 g,1.6900
-1000374,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Gerookte Zalm 140 g,6.4900
-1000375,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,BIO Avocado Los verkocht,1.4900
-1000376,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Biokip Chipolata,6.6500
-1000377,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Biokip Onderbouten,8.4000
-1000378,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Koriander in pot,1.1500
-1000379,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Filet de Saxe 80 g,2.9900
-1000380,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Rundslapje Bio,10.6000
-1000381,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Kippenfilet 100 g,3.0900
-1000382,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Aubergines 2 st,3.4900
-1000383,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Broccoli 1 st,2.2900
-1000384,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Bio + Raw Chiazaad 200 g,6.2200
-1000385,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Zonnebloempitten Bio 200 g,2.1700
-1000386,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Citroenen 500 g,1.6900
-1000387,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Aloe Vera 1 st,2.2900
-1000388,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Biokip Bouten,7.8000
-1000389,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Gele Ajuinen 750g,1.0900
-1000390,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Sjalotten 250g,1.3900
-1000391,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Smaakt,Bio Amandel-Schaafsel 100 g,5.2300
-1000392,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Courgetten 500g,1.9900
-1000393,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Snijbonen 500g,3.4900
-1000394,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Pompelmoes 2 st,1.9900
-1000395,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Gerookte Zalm 70 g,3.4900
-1000396,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio 6 Pannenkoeken 330 g,1.6900
-1000397,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI,Fairtrade wit praline,1.9900
-1000398,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HERO BABY,Bio appel / peer 4m,1.6500
-1000399,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Rode Biet Gekookt 500 g,1.3500
-1000400,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Biokip Burger,3.7500
-1000401,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Biokip Gekruid Vlees,6.7500
-1000402,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Cashew Bio 200 g,6.8800
-1000403,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Lijnzaad Bio 200 g,2.0700
-1000404,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Nutridia,Zadenmengeling Bio 200 g,2.9600
-1000405,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Groene Selder 1 st,2.2900
-1000406,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Colruyt,rode biet blokjes Bio,1.8900
-1000407,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,GARNIER,Bio rein.gel detox citr.,7.9900
-1000408,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Preischeuten 50 g,1.6900
-1000409,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio sojascheuten 200 g,1.6900
-1000410,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,babysn.olifant aard-ban.bio,1.0900
-1000411,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,,Fairtrade-juniorbananen,0.0000
-1000412,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,HEAD & SHOULDERS,shamp.2 in 1 munt,4.6900
-1000413,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Dille in pot,1.0900
-1000414,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Charentais Meloen 1 st,4.9900
-1000415,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Nectarines 500 g,2.9900
-1000416,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,ELLA'S KITCHEN,orange mul.6M+ bio,3.9900
-1000417,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Sla,2.2900
-1000418,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,Bio Ijsbergsla,1.9900
-1000419,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,BONI BIO,GV babysn.oli. aard-ban.bio,1.0900
-1000420,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,Carrefour,BIO Komkommer,0.9500
-1000421,Delhaize,Kruidenthee | Munt | Zakjes | Fairtrade|Bio,1.5500,NESTLÉ,sn.crackers wortel bio 12m+,2.9900
+999999,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Gemalen nootmuskaat,0.8500
+1000000,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,PORTLAND,Witte gemalen peper,0.6500
+1000001,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,PORTLAND,Zwarte gemalen peper,0.6500
+1000002,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert,4.5900
+1000003,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert,2.2900
+1000004,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert cafeïnevrij,4.9900
+1000005,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert cafeïnevrij,2.4900
+1000006,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Espresso,3.1500
+1000007,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Intense,2.1900
+1000008,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Mild,5.0900
+1000009,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Moka,2.2900
+1000010,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Moka,4.5900
+1000011,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Roodmerk,3.6900
+1000012,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH Excellent,Mousse koffie,1.2900
+1000013,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH,Paprika gemalen,0.6900
+1000014,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Jacqmotte,Dessert delice gemalen,3.7900
+1000015,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH,Kaneel gemalen,0.9900
+1000016,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH,Zwarte peper gemalen,0.7900
+1000017,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lavazza,Qualità oro gemalen koffie,4.4900
+1000018,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Dessert gemalen koffie,3.2900
+1000019,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Verstegen,Strooier koriander gemalen,2.2900
+1000020,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Mildou gemalen koffie,3.6900
+1000021,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Rombouts,Goudmerk gemalen,3.7900
+1000022,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Süper kalite,"Türk kahvesi, Turkse koffie",3.9900
+1000023,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Verstegen,Strooier gemalen kardemom,2.2900
+1000024,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Modifast,Drinkmaaltijd koffie,2.3900
+1000025,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,bananen Fairtrade,1.9800
+1000026,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,Geitenkaas gemalen,1.9900
+1000027,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,NESTLÉ LE VIENNOIS,koffie,3.3500
+1000028,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,likeurpralines Fairtrade,3.8900
+1000029,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,witte peper gemalen,1.1900
+1000030,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,peper wit gemalen,2.2700
+1000031,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,zwarte peper gemalen,3.1600
+1000032,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,witte peper gemalen,5.9900
+1000033,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,nootmuskaat gemalen,1.1600
+1000034,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,gemalen kaneel,0.7610
+1000035,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,CARTE D'OR,koffie ijs,4.9900
+1000036,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,ICE FACTORY,ijs gemalen,1.7900
+1000037,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Moka royal,3.6900
+1000038,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Moka royal,6.4900
+1000039,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Moka,3.2500
+1000040,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ moka gemalen,2.3800
+1000041,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ Moka gemalen,10.8500
+1000042,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ moka gemalen,4.7900
+1000043,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Dessert,3.4900
+1000044,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Dessert,6.9900
+1000045,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,ZWARTE KAT,gemalen koffie dessert,4.2900
+1000046,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Dessert,3.2300
+1000047,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ dessert gemalen,1.6900
+1000048,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ Dessert gemalen,9.8900
+1000049,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ dessert gemalen,4.3900
+1000050,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,NESTLÉ BONJOUR,koffie melk cichorei,7.4900
+1000051,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Deca,2.9900
+1000052,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Décafé,4.0700
+1000053,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ deca gemalen,1.9500
+1000054,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ deca gemalen,2.9900
+1000055,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GERLINÉA,afslank drink koffie,8.3700
+1000056,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,koffie mousse,1.0900
+1000057,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,koffie gemalen Kachalù,8.5900
+1000058,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Mildou,3.7900
+1000059,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Mild,4.9800
+1000060,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,OXFAM FAIRTRADE,koffie Highland bio,4.6500
+1000061,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Robusta,1.9900
+1000062,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,koffie gemalen dessert FT,6.5800
+1000063,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ espresso gemalen,4.9900
+1000064,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Santa Anita RF gemalen,7.2900
+1000065,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Cerrado RF gemalen,8.9900
+1000066,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Acatenango gemalen,8.2900
+1000067,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,koffie gemalen Peru RFA,6.0600
+1000068,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Kivu gemalen,8.2900
+1000069,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ mild gemalen,5.1800
+1000070,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ intens gemalen,7.1900
+1000071,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,paashaas puur fairtrade,2.1900
+1000072,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,gemalen komijn,1.5500
+1000073,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,gemalen koriander,2.0600
+1000074,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,nootmuskaat gemalen,5.8400
+1000075,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Moka Royal Lungo Intensiteit 08 Nespresso®* Compatibel 20 stuks,4.6800
+1000076,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Dessert Lungo Intensiteit 06 Nespresso®* Compatibel 20 stuks,4.6800
+1000077,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Bonen Dessert 500 g,8.6000
+1000078,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,Koffie SELECT Bokaal 50 g,3.5300
+1000079,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,Koffie SELECT Bokaal 200 g,7.0600
+1000080,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Senseo,Koffie Pads Latte 8 Stuks,3.3600
+1000081,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Jacqmotte,Koffie Bonen Espresso 500g,9.8800
+1000082,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Bonen Espresso 1kg,16.6500
+1000083,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso India Intensiteit 10 Nespresso®* Compatibel 10 stuks,3.6900
+1000084,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks Caramel Macchiato by NESCAFÉ DOLCE GUSTO 12 Capsules,4.6700
+1000085,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie STARBUCKS Latte Macchiato by NESCAFÉ DOLCE GUSTO 12 Capsules,4.6700
+1000086,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Splendente Intensiteit 7 Nespresso®* Compatibel 10 stuks,3.5900
+1000087,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Gemalen Aroma 250 g,4.8900
+1000088,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Gemalen Black 250 g,4.8900
+1000089,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Ristretto Intensiteit 11 Nespresso®* Compatibel 10 stuks,3.5900
+1000090,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Decaffeinato Intensiteit 6 Nespresso®* Compatibel 10 stuks,3.5900
+1000091,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Colombia Intensiteit 8 Nespresso®* Compatibel 10 stuks,3.6900
+1000092,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Original Espresso Intensiteit 07 Nespresso®* Compatibel 20 stuks,5.4000
+1000093,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Dark Espresso Intensiteit 10 Nespresso®* Compatibel 20 stuks,5.4000
+1000094,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks by NESPRESSO Single-Origin Colombia 10 capsules,4.1300
+1000095,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks Decaf Espresso Roast zonder cafeïne 10 capsules,4.1300
+1000096,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lactel,Lichte Start Koffie 50 cl,1.6600
+1000097,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Moka Royal Lungo Intensiteit 08 Nespresso®* Compatibel 40 stuks,8.8600
+1000098,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Dessert Lungo Intensiteit 06 Nespresso®* Compatibel 40 stuks,8.8600
+1000099,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso BIO Intensiteit 7 Nespresso®* Compatibel 10 stuks,3.7900
+1000100,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso BIO Intensiteit 9 Nespresso®* Compatibel 10 stuks,4.1300
+1000101,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,SENSEO® Espresso Koffie Pads Composteerbaar* Classic 36 stuks,5.3000
+1000102,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,SENSEO® Espresso Koffie Pads Composteerbaar* Intense 36 stuks,5.3000
+1000103,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks by NESCAFÉ DOLCE GUSTO Caffè Latte 12 capsules,4.6700
+1000104,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,GOLD Koffie Chocolate & Caramelised Hazelnut Latte Zakjes 148g,3.7500
+1000105,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,Farmers Origins Koffie Colombia Decaf Espresso  10 Capsules,3.8100
+1000106,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nestlé,Koffie BONJOUR Doos 400 g,8.0100
+1000107,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,illy,Koffie Capsules Lungo Classico Nespresso®* Compatibel 10 stuks,4.5900
+1000108,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,illy,Koffie Capsules Espresso Classico Nespresso®* Compatibel 10 stuks,4.5900
+1000109,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks by NESPRESSO Blonde Espresso Roast 10 capsules,4.1300
+1000110,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Lungo Elegante Intensiteit 6 Nespresso®* Compatibel 10 stuks,3.5900
+1000111,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Nespresso® Compatible Lungo Mattinata Intensiteit 5 10 Stuks,3.5900
+1000112,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsule Lungo Profondo Intensiteit 8 Nespresso®* Compatibel 10 stuks,3.5900
+1000113,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Delizioso Intensiteit 5 Nespresso®* Compatibel 10 stuks,3.5900
+1000114,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Black Ristretto Intensiteit 12 Nespresso®* Compatibel 20 stuks,4.6800
+1000115,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lavazza,Koffie Pads Classico 36st,5.3600
+1000116,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lavazza,Koffie Pads Intenso 36pcs,5.3600
+1000117,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Delizioso Intensiteit 5 Nespresso®* Compatibel 20 stuks,6.5900
+1000118,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nestlé,Koffie RICORÉ Doos 100 g,3.8800
+1000119,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nestlé,Koffie Ricoré Doos 250 g,6.1700
+1000120,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Decaf Lungo Intensiteit 06 Nespresso®* Compatibel 20 stuks,4.6800
+1000121,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Rombouts,Goudmerk Gemalen 250 g,4.3800
+1000122,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Forza Intensiteit 9 Nespresso®* Compatibel 20 stuks,6.5900
+1000123,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Lungo Profondo Intensiteit 8 Nespresso®* Compatibel  20 stuks,6.5900
+1000124,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Lungo Elegante Intensiteit 6 Nespresso®* Compatibel 20 stuks,6.5900
+1000125,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Ristretto Intensiteit 11 Nespresso®* Compatibel 20 stuks,6.5900
+1000126,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,illy,Koffie Capsules Espresso Deca Nespresso®* Compatibel 10 stuks,4.5900
+1000127,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Max Havelaar,Bananen Fairtrade 850 g,1.6900
+1000128,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,Fairtrade wit praline,1.9900
+1000129,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Fairtrade-juniorbananen,0.0000
+1000130,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DUCROS,sjalot gemalen,2.2100
