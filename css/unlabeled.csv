@@ -1,133 +1,611 @@
 id,left_brand,left_productName,left_price,right_brand,right_productName,right_price
-999999,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Gemalen nootmuskaat,0.8500
-1000000,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,PORTLAND,Witte gemalen peper,0.6500
-1000001,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,PORTLAND,Zwarte gemalen peper,0.6500
-1000002,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert,4.5900
-1000003,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert,2.2900
-1000004,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert cafeïnevrij,4.9900
-1000005,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Dessert cafeïnevrij,2.4900
-1000006,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Espresso,3.1500
-1000007,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Intense,2.1900
-1000008,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Mild,5.0900
-1000009,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Moka,2.2900
-1000010,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Moka,4.5900
-1000011,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,MARKUS,Koffie Roodmerk,3.6900
-1000012,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH Excellent,Mousse koffie,1.2900
-1000013,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH,Paprika gemalen,0.6900
-1000014,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Jacqmotte,Dessert delice gemalen,3.7900
-1000015,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH,Kaneel gemalen,0.9900
-1000016,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,AH,Zwarte peper gemalen,0.7900
-1000017,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lavazza,Qualità oro gemalen koffie,4.4900
-1000018,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Dessert gemalen koffie,3.2900
-1000019,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Verstegen,Strooier koriander gemalen,2.2900
-1000020,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Mildou gemalen koffie,3.6900
-1000021,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Rombouts,Goudmerk gemalen,3.7900
-1000022,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Süper kalite,"Türk kahvesi, Turkse koffie",3.9900
-1000023,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Verstegen,Strooier gemalen kardemom,2.2900
-1000024,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Modifast,Drinkmaaltijd koffie,2.3900
-1000025,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,bananen Fairtrade,1.9800
-1000026,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,Geitenkaas gemalen,1.9900
-1000027,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,NESTLÉ LE VIENNOIS,koffie,3.3500
-1000028,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,likeurpralines Fairtrade,3.8900
-1000029,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,witte peper gemalen,1.1900
-1000030,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,peper wit gemalen,2.2700
-1000031,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,zwarte peper gemalen,3.1600
-1000032,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,witte peper gemalen,5.9900
-1000033,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,nootmuskaat gemalen,1.1600
-1000034,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,gemalen kaneel,0.7610
-1000035,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,CARTE D'OR,koffie ijs,4.9900
-1000036,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,ICE FACTORY,ijs gemalen,1.7900
-1000037,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Moka royal,3.6900
-1000038,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Moka royal,6.4900
-1000039,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Moka,3.2500
-1000040,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ moka gemalen,2.3800
-1000041,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ Moka gemalen,10.8500
-1000042,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ moka gemalen,4.7900
-1000043,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Dessert,3.4900
-1000044,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Dessert,6.9900
-1000045,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,ZWARTE KAT,gemalen koffie dessert,4.2900
-1000046,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Dessert,3.2300
-1000047,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ dessert gemalen,1.6900
-1000048,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ Dessert gemalen,9.8900
-1000049,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ dessert gemalen,4.3900
-1000050,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,NESTLÉ BONJOUR,koffie melk cichorei,7.4900
-1000051,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Deca,2.9900
-1000052,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Décafé,4.0700
-1000053,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ deca gemalen,1.9500
-1000054,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ deca gemalen,2.9900
-1000055,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GERLINÉA,afslank drink koffie,8.3700
-1000056,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,koffie mousse,1.0900
-1000057,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,koffie gemalen Kachalù,8.5900
-1000058,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DOUWE EGBERTS,koffie Mildou,3.7900
-1000059,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Mild,4.9800
-1000060,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,OXFAM FAIRTRADE,koffie Highland bio,4.6500
-1000061,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,EVERYDAY,koffie gemalen Robusta,1.9900
-1000062,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,koffie gemalen dessert FT,6.5800
-1000063,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ espresso gemalen,4.9900
-1000064,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Santa Anita RF gemalen,7.2900
-1000065,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Cerrado RF gemalen,8.9900
-1000066,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Acatenango gemalen,8.2900
-1000067,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI BIO,koffie gemalen Peru RFA,6.0600
-1000068,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,Kivu gemalen,8.2900
-1000069,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ mild gemalen,5.1800
-1000070,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,GRAINDOR,UTZ intens gemalen,7.1900
-1000071,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,paashaas puur fairtrade,2.1900
-1000072,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,gemalen komijn,1.5500
-1000073,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,gemalen koriander,2.0600
-1000074,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,nootmuskaat gemalen,5.8400
-1000075,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Moka Royal Lungo Intensiteit 08 Nespresso®* Compatibel 20 stuks,4.6800
-1000076,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Dessert Lungo Intensiteit 06 Nespresso®* Compatibel 20 stuks,4.6800
-1000077,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Bonen Dessert 500 g,8.6000
-1000078,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,Koffie SELECT Bokaal 50 g,3.5300
-1000079,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,Koffie SELECT Bokaal 200 g,7.0600
-1000080,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Senseo,Koffie Pads Latte 8 Stuks,3.3600
-1000081,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Jacqmotte,Koffie Bonen Espresso 500g,9.8800
-1000082,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Bonen Espresso 1kg,16.6500
-1000083,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso India Intensiteit 10 Nespresso®* Compatibel 10 stuks,3.6900
-1000084,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks Caramel Macchiato by NESCAFÉ DOLCE GUSTO 12 Capsules,4.6700
-1000085,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie STARBUCKS Latte Macchiato by NESCAFÉ DOLCE GUSTO 12 Capsules,4.6700
-1000086,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Splendente Intensiteit 7 Nespresso®* Compatibel 10 stuks,3.5900
-1000087,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Gemalen Aroma 250 g,4.8900
-1000088,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Gemalen Black 250 g,4.8900
-1000089,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Ristretto Intensiteit 11 Nespresso®* Compatibel 10 stuks,3.5900
-1000090,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Decaffeinato Intensiteit 6 Nespresso®* Compatibel 10 stuks,3.5900
-1000091,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Colombia Intensiteit 8 Nespresso®* Compatibel 10 stuks,3.6900
-1000092,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Original Espresso Intensiteit 07 Nespresso®* Compatibel 20 stuks,5.4000
-1000093,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Dark Espresso Intensiteit 10 Nespresso®* Compatibel 20 stuks,5.4000
-1000094,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks by NESPRESSO Single-Origin Colombia 10 capsules,4.1300
-1000095,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks Decaf Espresso Roast zonder cafeïne 10 capsules,4.1300
-1000096,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lactel,Lichte Start Koffie 50 cl,1.6600
-1000097,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Moka Royal Lungo Intensiteit 08 Nespresso®* Compatibel 40 stuks,8.8600
-1000098,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Dessert Lungo Intensiteit 06 Nespresso®* Compatibel 40 stuks,8.8600
-1000099,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso BIO Intensiteit 7 Nespresso®* Compatibel 10 stuks,3.7900
-1000100,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso BIO Intensiteit 9 Nespresso®* Compatibel 10 stuks,4.1300
-1000101,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,SENSEO® Espresso Koffie Pads Composteerbaar* Classic 36 stuks,5.3000
-1000102,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,SENSEO® Espresso Koffie Pads Composteerbaar* Intense 36 stuks,5.3000
-1000103,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks by NESCAFÉ DOLCE GUSTO Caffè Latte 12 capsules,4.6700
-1000104,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,GOLD Koffie Chocolate & Caramelised Hazelnut Latte Zakjes 148g,3.7500
-1000105,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nescafé,Farmers Origins Koffie Colombia Decaf Espresso  10 Capsules,3.8100
-1000106,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nestlé,Koffie BONJOUR Doos 400 g,8.0100
-1000107,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,illy,Koffie Capsules Lungo Classico Nespresso®* Compatibel 10 stuks,4.5900
-1000108,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,illy,Koffie Capsules Espresso Classico Nespresso®* Compatibel 10 stuks,4.5900
-1000109,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Koffie Starbucks by NESPRESSO Blonde Espresso Roast 10 capsules,4.1300
-1000110,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Lungo Elegante Intensiteit 6 Nespresso®* Compatibel 10 stuks,3.5900
-1000111,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Nespresso® Compatible Lungo Mattinata Intensiteit 5 10 Stuks,3.5900
-1000112,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsule Lungo Profondo Intensiteit 8 Nespresso®* Compatibel 10 stuks,3.5900
-1000113,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Delizioso Intensiteit 5 Nespresso®* Compatibel 10 stuks,3.5900
-1000114,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Black Ristretto Intensiteit 12 Nespresso®* Compatibel 20 stuks,4.6800
-1000115,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lavazza,Koffie Pads Classico 36st,5.3600
-1000116,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Lavazza,Koffie Pads Intenso 36pcs,5.3600
-1000117,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Delizioso Intensiteit 5 Nespresso®* Compatibel 20 stuks,6.5900
-1000118,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nestlé,Koffie RICORÉ Doos 100 g,3.8800
-1000119,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Nestlé,Koffie Ricoré Doos 250 g,6.1700
-1000120,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Douwe Egberts,Koffie Capsules Decaf Lungo Intensiteit 06 Nespresso®* Compatibel 20 stuks,4.6800
-1000121,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Rombouts,Goudmerk Gemalen 250 g,4.3800
-1000122,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Forza Intensiteit 9 Nespresso®* Compatibel 20 stuks,6.5900
-1000123,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Lungo Profondo Intensiteit 8 Nespresso®* Compatibel  20 stuks,6.5900
-1000124,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Lungo Elegante Intensiteit 6 Nespresso®* Compatibel 20 stuks,6.5900
-1000125,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,L'OR,Koffie Capsules Espresso Ristretto Intensiteit 11 Nespresso®* Compatibel 20 stuks,6.5900
-1000126,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,illy,Koffie Capsules Espresso Deca Nespresso®* Compatibel 10 stuks,4.5900
-1000127,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,Max Havelaar,Bananen Fairtrade 850 g,1.6900
-1000128,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,BONI,Fairtrade wit praline,1.9900
-1000129,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,,Fairtrade-juniorbananen,0.0000
-1000130,Latitude 28,Koffie | Ethiopia | Gemalen | Fairtrade,4.3900,DUCROS,sjalot gemalen,2.2100
+999999,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BEBINO,Luiers junior 5 70 st.,9.9900
+1000000,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,TARTICHOC,Ontbijtchocolade puur,1.6900
+1000001,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SOYPRO,Sojadessert chocolade 4 st.,1.4900
+1000002,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SOYPRO,Sojadrink chocolade 3 st.,1.1500
+1000003,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Bio-uien,0.0000
+1000004,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EL CULTIVADOR BIO,Bio-olijfolie,3.9900
+1000005,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MAMIE POULE BIO,Bio-eieren 6 st.,2.3900
+1000006,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SUBLIMO,Vochtig toiletpapier 70 st.,1.2500
+1000007,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,URSI,Roomdessert chocolade,0.6500
+1000008,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BIFI,Bifi Roll XXL 70 g,1.4900
+1000009,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MILSANI BIO,Bio-ontbijtyoghurt,0.8500
+1000010,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CHÂTEAU,Chocolade,1.5500
+1000011,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MERCI,Chocolade Merci,2.4900
+1000012,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AMBIENTE,Chocolade met praliné,1.4500
+1000013,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,KINDER,Chocolade,1.6900
+1000014,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,Pure chocolade,1.6900
+1000015,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CHÂTEAU,Pure chocolade,1.4900
+1000016,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AMBIENTE,Witte chocolade,1.6900
+1000017,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MONARC,Safarikoeken met chocolade,1.1900
+1000018,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VALERIE,Suikerwafels met chocolade,1.7500
+1000019,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Bonduelle,Kikkererwten bio,2.3900
+1000020,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Bonduelle,Crispy mais bio,1.9900
+1000021,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Clemont rouge 70+,2.3900
+1000022,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Clemont blanc 70+,2.2900
+1000023,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Bonduelle,Bio crispy maïs 2 mini's,2.5900
+1000024,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Bonduelle,Crispy maïs bio,1.5900
+1000025,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Melkunie,Protein shake chocolade,0.9900
+1000026,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade drink halfvol,0.7900
+1000027,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Oatly!,Haverdrank Bio,1.9900
+1000028,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Zanetti,Bio burrata,3.0900
+1000029,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade drink classic,0.8900
+1000030,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Puur chocolade druppels,1.9900
+1000031,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Almhof,Chocolade mousse,1.5900
+1000032,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Isey,Aardbei-witte chocolade,2.4900
+1000033,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade mousse puur,1.1900
+1000034,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Krokante muesli chocolade,1.9900
+1000035,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Melk chocolade druppels,1.9900
+1000036,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Gü,Chocolade Vanille,3.5900
+1000037,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Hero,Tova chocolade dessertsaus,1.6900
+1000038,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Kellogg's,Special K pure chocolade,3.2900
+1000039,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade mousse taart,7.5000
+1000040,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Witte chocolade druppels,1.9900
+1000041,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Rijstwafels pure chocolade,0.9900
+1000042,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Quaker,Cruesli chocolade,3.4900
+1000043,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade roomijs,1.7900
+1000044,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Imperial,Pudding chocolade,1.9900
+1000045,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Dr. Oetker,Mug cake chocolade,1.3900
+1000046,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Castello,Creamy blue 70+,2.3900
+1000047,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Dr. Oetker,Muffins chocolade,2.9900
+1000048,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Paschka,Chocolade,2.4900
+1000049,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Kleintje clemont blauw 70+,1.0000
+1000050,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocoladepasta puur,1.2500
+1000051,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Costa Ligure,Pesto genovese bio,2.9900
+1000052,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Hagelslag puur,1.9900
+1000053,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HiPRO,Protein drink chocolade,2.2900
+1000054,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Céréal,Hagelslag puur,2.1900
+1000055,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Oatly!,Haver cuisine bio,1.2900
+1000056,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Lois Harmony,Bio Ghee (Geklaarde Boter),4.9900
+1000057,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,De Ruijter,Chocoladehagel puur,2.9900
+1000058,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Melk chocolade vlokken,0.9900
+1000059,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Oatly!,Verse Haverdrank Bio,1.9900
+1000060,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Mars,Chocolade roomijs in beker,5.4900
+1000061,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Friendly Vikings,Haver drank chocolade,2.4900
+1000062,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Go-Tan,Organic coconut milk bio,2.2900
+1000063,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,De Zaanse Hoeve,Roomtoetje chocolade,0.1900
+1000064,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade classic ijs,1.5900
+1000065,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade almond ijs,1.6900
+1000066,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade hagel melk,1.3900
+1000067,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,So Vegan So Fine,Pure chocoladepasta bio,2.9900
+1000068,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH Glutenvrij,Mueslireep chocolade,2.4900
+1000069,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Tablet puur,0.3900
+1000070,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Kinder,Chocolade,1.9900
+1000071,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Pure chocolade vlokken,0.9900
+1000072,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Lotus,Dinosaurus chocolade,1.4900
+1000073,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Tablet melk chocolade,0.4000
+1000074,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,De Ruijter,Vlokken puur,2.4900
+1000075,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Belvoir,Ginger cordial bio,3.9900
+1000076,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,De Ruijter,Chunks extra puur,2.7900
+1000077,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Jacques,Matinettes puur,1.9900
+1000078,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Mueslireep chocolade zero,1.4900
+1000079,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Venz,Kwinkslag puur-vanille,1.9900
+1000080,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade zeevruchten,1.4900
+1000081,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Chocolade hagel puur,1.2900
+1000082,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Milka,Chocolade,0.9900
+1000083,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU,Koekjes chocolade smaak,1.2900
+1000084,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Liga,Belvita chocolade koekjes,1.9900
+1000085,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Boerinneke Marino,Chocopasta puur,2.8900
+1000086,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Tony's Chocolonely,Puur amandel zeezout,2.5900
+1000087,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Milka,Chocolade reep alpenmelk,0.9900
+1000088,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Delicata,Puur 85%,1.3900
+1000089,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU,Mikado puur,1.6900
+1000090,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,McVitie's,Digestive melk chocolade,1.9900
+1000091,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,De Ruijter,Chocoladehagel extra puur,2.9900
+1000092,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU,Wafels chocolade,3.1900
+1000093,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Mutti,Tomatenpulp in stukjes bio,1.5900
+1000094,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Milka,Brownie chocolade reep,1.3900
+1000095,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Mutti,Gepelde tomaten bio,1.3900
+1000096,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Galettes chocolade,2.4900
+1000097,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Lotus,Dino mini chocolade,1.7900
+1000098,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,M&M'S,Brownie chocolade,2.9900
+1000099,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Prince,Choco chocolade 6 koeken,1.5900
+1000100,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BN,Mini biscuits chocolade,1.4900
+1000101,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Milka,Witte chocolade reep,1.0900
+1000102,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,M&M'S,Koekjes met chocolade,2.1900
+1000103,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH Excellent,Chocolade paashaasjes melk,2.7900
+1000104,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Milka,Confetti chocolade reep,1.0900
+1000105,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,McVitie's,Digestive pure chocolade,2.1900
+1000106,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Delicata,Chocolade paaseitjes wit,1.9900
+1000107,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Babydoekjes puur 0% parfum,1.9900
+1000108,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Ella's Kitchen,Aardbeien yoghurt 6+ bio,1.2900
+1000109,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Belvoir,Elderflower cordial bio,3.9900
+1000110,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Heinz,Tomaten ketchup bio,2.9900
+1000111,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Ella's Kitchen,Bananen + kokos 4+ bio,1.6900
+1000112,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Belvoir,Lemon mint cordial bio,4.0900
+1000113,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Paaseitjes puur,1.7900
+1000114,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Modifast,Drinkmaaltijd chocolade,2.1900
+1000115,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU,Zachte cake chocolade,1.6900
+1000116,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Ella's Kitchen,Pruimen 4+ bio,1.4900
+1000117,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Delicata,Reep extra puur 70%,1.5900
+1000118,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Delicata,Chocolade paaseitjes mix,1.9900
+1000119,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Robijn,Puur & zacht wasverzachter,4.9900
+1000120,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Delicata,Paaseitjes extra puur,1.9900
+1000121,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Mueslireep chocolade,1.5900
+1000122,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carapelli,Bio extra vergine,8.2400
+1000123,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Robijn,Puur & zacht wasverzachter,2.9900
+1000124,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH Excellent,Chocolade kuikentjes wit,2.7900
+1000125,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Ritter Sport,Puur hazelnoot,1.1900
+1000126,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Haverrepen chocolade,1.9900
+1000127,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Boerinneke Marino,Rijstmelkpasta bio,4.9900
+1000128,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Wasverzachter Puur & Zacht,0.8900
+1000129,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Delicata,Chocolade 75%,1.2900
+1000130,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,M&M'S,Salted caramel chocolade,2.9900
+1000131,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Peanut chocolade bar,1.2900
+1000132,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,M&M'S,Crispy chocolade,3.6900
+1000133,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Wasmiddel puur kleur,3.7900
+1000134,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Caramel chocolade bar,1.2900
+1000135,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Ella's Kitchen,Mango's 4+ bio,1.3500
+1000136,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Wasverzachter puur,1.9900
+1000137,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,M&M'S,Choco chocolade,3.4900
+1000138,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Côte d'Or,Paaseitjes puur pralines,2.2900
+1000139,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,AH,Wasmiddel puur wit,3.7900
+1000140,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Bio kurkuma,1.4900
+1000141,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,bio blauwe bessen,2.9900
+1000142,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,kiwi bio,0.5900
+1000143,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,bananen Fairtrade,1.9800
+1000144,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,bio amandelen,4.9800
+1000145,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,varkenspiering Bio,13.8000
+1000146,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,kip Bio,11.3500
+1000147,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,kipfilet Bio,23.2900
+1000148,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,kippenbil Bio,12.9900
+1000149,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GANDA,gedr.ham bio gv,5.1900
+1000150,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,sojadrink chocolade brik,1.1500
+1000151,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DREAM,haverdrink Bio,2.6000
+1000152,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DAMSE MOKKE,geitenkaas bio,23.8000
+1000153,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yoghurt mager natuur Bio,2.9000
+1000154,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yog.mager natuur bio glas,2.1900
+1000155,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,magere yoghurt bio,2.6900
+1000156,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yogh.lactosevrij nat.bio,2.8500
+1000157,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,BIO skyr,2.4900
+1000158,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yogh.vol aardb.bio glas,5.2400
+1000159,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yogh.vol bosb.bio glas,5.2400
+1000160,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yoghurt vol bosbes bio,4.4500
+1000161,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yoghurt vol van.bio glas,1.9900
+1000162,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yogh.vol gran.ap.bio glas,2.0900
+1000163,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yoghurt vol aardbei bio,4.5500
+1000164,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yoghurt vol nat.bio glas,1.7900
+1000165,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yoghurt vol natuur bio,2.8000
+1000166,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yogh. vol nat. bio,4.2500
+1000167,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,yogh.vol rietsuiker bio,4.1500
+1000168,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,Bio aardbei,3.5900
+1000169,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,Bio banaan,3.5900
+1000170,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,Greek Style natuur bio,4.6500
+1000171,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,Skyr yoghurt bosbes Bio,3.1500
+1000172,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,Skyr perzik maracuja bio,3.0500
+1000173,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,dessert liégeois chocolade,0.1900
+1000174,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ LE VIENNOIS,choco,2.9100
+1000175,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DANONE DANETTE,crème chocolade,3.9800
+1000176,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,pudding chocolade,2.8300
+1000177,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,crème dessert chocolade,0.6500
+1000178,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,vla chocolade,1.5900
+1000179,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LINDAHLS,pudding chocolade,1.3900
+1000180,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,panichocs chocolade,2.3800
+1000181,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DE TROG,sandwiches Bio,3.5900
+1000182,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BOERINNEKE,chocopasta puur sv,4.7900
+1000183,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,chocopasta puur,1.7500
+1000184,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BOERINNEKE,choco rijst lv-gv bio,4.9900
+1000185,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,KWATTA,chocopasta puur,2.9500
+1000186,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BOERINNEKE,chocopasta puur,5.8900
+1000187,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BOERINNEKE,chocopasta puur,2.8900
+1000188,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,JACQUES,hagelslag puur,6.1400
+1000189,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,hagelslag puur,1.9900
+1000190,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,JACQUES,hagelmix puur en wit,3.8900
+1000191,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,KWATTA,hagelslag puur,2.8900
+1000192,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur 4 vruchten Bio,3.7400
+1000193,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MELI,bio honing Squeeze,4.8500
+1000194,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LOTUS,speculoos chocolade,1.4900
+1000195,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CRUMBEL,mini speculoos chocolade,3.2500
+1000196,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur aardbei Bio,3.7400
+1000197,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,FIORDIFRUTTA,bio aar&wil.aar.conf.,4.8700
+1000198,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur vijgen Bio,3.8900
+1000199,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur sinaasappel Bio,3.9800
+1000200,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,FIORDIFRUTTA,bio conf.citrus&gember,4.8200
+1000201,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ LION,chocolade en karamel,6.8400
+1000202,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,KELLOGG'S SPECIAL K,pure chocolade,6.0300
+1000203,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,KELLOGG'S TRÉSOR,chocolade hazelnoot,9.3900
+1000204,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ NESQUIK,duo chocolade,3.7900
+1000205,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ NESQUIK,Cereal Bio,4.3900
+1000206,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,JORDANS GRANOLA,bio org.choc&cocon.,4.2500
+1000207,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur frambozen Bio,4.3000
+1000208,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur krieken Bio,3.9900
+1000209,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,confituur bosbessen Bio,4.8500
+1000210,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LIMA,muesli original bio,6.7700
+1000211,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU CRACOTTE CRAQUINETTE,chocolade,3.2500
+1000212,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DR. KARG'S,spelt&zaden bio,3.0900
+1000213,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,muesli reep chocolade,1.2700
+1000214,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ FITNESS,graanreep chocolade,2.1200
+1000215,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,QUAKER,bars chocolade,2.5900
+1000216,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BELVITA,chocolade reep hazelnoot,2.8900
+1000217,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,rijstwafel chocolade,0.8900
+1000218,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GOOD GOUT,bio mini rijstw.blauwe bes,2.1400
+1000219,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SCHOCK'S,notenrepen Nussmix bio,2.3000
+1000220,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BILLY'S FARM,volk.mueslikoeken bio,2.8900
+1000221,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU BELVITA,choco,1.9900
+1000222,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LOTUS,Marshmallow chocolade,2.5500
+1000223,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,Muffins chocolade,2.4900
+1000224,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,Sprits chocolade,0.9400
+1000225,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BAHLSEN PICK UP!,chocolade,3.7800
+1000226,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BN CHOC'LAND,koeken chocolade,2.9900
+1000227,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BAHLSEN PICK UP!,pure chocolade,3.7800
+1000228,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU CHOCO AS,koeken chocolade,3.1900
+1000229,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU MIKADO,koeken pure chocolade,1.6900
+1000230,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DELACRE GÂTEAU,koeken chocolade,2.1900
+1000231,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,Biscuits chocolade,0.7780
+1000232,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,Sprits boter-chocolade,2.8900
+1000233,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VERMEIREN,Specul. Choc.Chips bio ft,1.5900
+1000234,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,wafel mini met chocolade,1.6100
+1000235,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LOTUS,krok.wafels chocolade,2.4900
+1000236,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,chocolade melk,0.7950
+1000237,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,chocolade melk FT,1.1900
+1000238,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CRUMBEL,mini cake chocolade,3.2500
+1000239,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PAASEIEREN,pure chocolade in zak,1.4900
+1000240,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,chocolade paaskip,2.2600
+1000241,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ CRUNCH,chocolade,1.1900
+1000242,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,puur-marzipan,3.1900
+1000243,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ GALAK,chocolade popri wit,3.5500
+1000244,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,chocolade wit,1.1800
+1000245,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,carrés puur hele hazeln.,3.7900
+1000246,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,chocolade wit FT,1.3500
+1000247,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,TONY'S,puur 51% amandel zeezout,2.5900
+1000248,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ GALAK,chocolade wit,3.4900
+1000249,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ GALAK,chocolade popri wit,3.2900
+1000250,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,Bloc puur hazelnoot,2.5900
+1000251,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,puur truffé,2.9900
+1000252,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,RITTER SPORT,Nut sel. puur hazeln.,1.1900
+1000253,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,chocolade puur hazeln. FT,1.6400
+1000254,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MERCI,tablet puur-marsepein,1.9900
+1000255,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR CHOKOTOFF,puur karamel,7.9800
+1000256,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,WERTHER'S ORIGINAL,zacht&chocolade,2.7300
+1000257,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,noir 70%,4.1500
+1000258,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,noir intense 70%,1.9900
+1000259,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MERCI,chocolade assortiment,3.9900
+1000260,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LINDT EXCELLENCE,70% cacao,1.8900
+1000261,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,JACQUES,matinettes 60% puur,1.9900
+1000262,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,JACQUES,chocolade melk banaan,4.2700
+1000263,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,JACQUES,chocolade melk mokka-rhum,4.2700
+1000264,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GALLER,chocolade 70% noir orange,2.1000
+1000265,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GALLER,repen praliné puur 3pack,3.5700
+1000266,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,puur hele noot,3.2500
+1000267,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,Zero pure chocolade,2.9900
+1000268,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,puur praliné truffle,2.8900
+1000269,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,chocolade paashaas,1.9900
+1000270,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,likeurpralines Fairtrade,3.8900
+1000271,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CARDI,zure wormen gv lv bio,1.9900
+1000272,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CALLEBAUT,"callets puur 54,5% cacao",25.9900
+1000273,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,chocolade puur,0.7400
+1000274,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,chocolade puur mini,2.2900
+1000275,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MILKA LEO,witte chocolade,5.7900
+1000276,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GALLER,chocolade 85% noir profond,2.0900
+1000277,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GALLER,chocolade 70% noir intense,2.1000
+1000278,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,chocolade puur FT,1.1900
+1000279,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,Fairtrade chocolade puur pral.,1.5700
+1000280,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,Nicaragua puur 72%,1.2900
+1000281,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,BIO POINTE DE SEL 70%,2.4900
+1000282,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,noir 70% BIO,2.4900
+1000283,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,bio mignonette 70% puur,5.4500
+1000284,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HAKUBAKU,noodles soba bio,3.8500
+1000285,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HAKUBAKU,noodles udon bio,4.0000
+1000286,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,KING SOBA,Thai Rice Noodles bio,2.5100
+1000287,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OFAL,lange volle rijst bio,4.6900
+1000288,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DR.OETKER,Cupcake stiften chocolade,4.5000
+1000289,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OFAL,instantpolenta Bio,2.4900
+1000290,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,olijfolie extra vierge Bio,6.9900
+1000291,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,FILIPPO BERIO,olijfolie puur,8.9900
+1000292,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CORICELLI,bio olijfolie ext.vierge,8.2900
+1000293,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,IMPERIAL,pudding powder chocolade,5.9900
+1000294,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DR.OETKER SAROMA,pudding chocolade,0.8910
+1000295,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CANDICO,ruwe rietsuiker bio,5.2300
+1000296,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VALAYA,kokosbloesemsuiker bio,6.9900
+1000297,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HYGIENA,marsepein bio,4.9900
+1000298,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OMEGA & MORE,kokosolie geurl.bio,6.6200
+1000299,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DR.OETKER,mix muffins chocolade,4.6000
+1000300,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DR.OETKER,moelleux chocolade,3.5000
+1000301,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LA MACINA LIGURE,pesto gv bio bok,6.4900
+1000302,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DE HOBBIT,gr.bouillon poed. bio bok,3.9900
+1000303,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MENGAZZOLI,balsamicoazijn wit bio,5.6900
+1000304,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MENGAZZOLI,balsamicoaz. Modena bio,5.6900
+1000305,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MATERNE,bio compote met stukjes,2.1500
+1000306,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NOLIKO,maïskorrels z.suiker bio,1.4900
+1000307,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MEICA,Weense w. bio lv gv bok,5.9900
+1000308,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ZAPETTI,ravioli pur boeuf bio,4.6500
+1000309,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,FAIREBEL,vanille ijs Bio,7.6900
+1000310,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,roomijs chocolade,2.6800
+1000311,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,IJSBOERKE,roomijs chocolade,7.4300
+1000312,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OLA CORNETTO,chocolade,4.5900
+1000313,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,IJSBOERKE JACQUES,chocolade bar,4.2900
+1000314,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ALPRO,hazelnoot-chocolade-ijs,5.6500
+1000315,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HÄAGEN-DAZS,belgische chocolade,5.9900
+1000316,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OLA MAGNUM,classic vanille chocolade,5.3200
+1000317,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,moelleux chocolade,3.9800
+1000318,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VOLVIC,Infusion hibiscus Bio,1.5300
+1000319,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VOLVIC,Infusion maté Bio,2.0500
+1000320,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VOLVIC,Infusion Peach Bio,2.0500
+1000321,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,appel 100% puur sap brik,1.5900
+1000322,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ZAGAZOE!,Paw Patrol appelsap Bio,1.8900
+1000323,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,druiven 100% puur sap brik,1.3900
+1000324,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,TERSCHELLINGER,Cranb.sap ongez. bio,8.9900
+1000325,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OXFAM FAIRTRADE,pads Highland Bio,2.7900
+1000326,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,'T VLIERBOS,vlierbl.siroop bio ft,3.8500
+1000327,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,topping chocolade,3.0500
+1000328,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,IMPERIAL,topping chocolade,3.2900
+1000329,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ZINNEBIR,"Belgian Pale Ale 5,8%Bio",7.2000
+1000330,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SAISON DUPONT,"bl.bier 5,5%vol bio",3.8500
+1000331,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ZAGAZOE!,Unicorn multivrucht Bio,1.9900
+1000332,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LA TRAPPE,"puur 4,5% Bio",6.5900
+1000333,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,1836,"Gin Pink 37,5% Bio",28.7000
+1000334,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Ste Hélène AOP Languedoc Bio,6.4900
+1000335,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Bio Château de Castets,7.6500
+1000336,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Adobe Carmenere Chili Bio,6.2600
+1000337,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Sangiovese Bio IGT Marche,4.7500
+1000338,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Luna AOP Fitou Bio,6.6500
+1000339,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Bio Laudum Nature Alicante,5.4900
+1000340,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Inycon Grillo Sicilia Bio,5.7900
+1000341,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LAS MULAS,Reserve rosé Bio,5.9900
+1000342,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Adobe Chardonnay wit Bio,5.6500
+1000343,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GRAN BARON,Cava brut Bio,7.5900
+1000344,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HIPP,bio combiotik 2 opvolgmelk,15.7900
+1000345,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,bio mango 4m+,1.3500
+1000346,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GOOD GOUT,peer perzik 4M bio,1.6900
+1000347,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,strawb.-apple.4+ bio,1.7500
+1000348,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,bio per-ban.maisst7m+,1.6900
+1000349,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Génélis Languedoc rosé Bio,4.4900
+1000350,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ,Baby Dessert chocolade 6m+,2.4500
+1000351,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HIPP,bio combiotik 3 groeimelk,14.7900
+1000352,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CANDIA,baby groeimelk 10-36m bio,2.1000
+1000353,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HIPP,gem.groenten 4m+ bio glas,3.5800
+1000354,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,baby multivruchten Bio,2.2900
+1000355,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ORGANIX,"comp.appel,kiwi,banaan bio",3.2900
+1000356,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,'T VLIERBOS,bio vlierbessensir. FT,3.1900
+1000357,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BIOVER,bio infusie slaap,4.7500
+1000358,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BIOVER,propolis spray den bio,7.2900
+1000359,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HERO BABY,lange vingers 8m+ bio,3.0900
+1000360,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,stick aar-ban 6m+ bio,1.1900
+1000361,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GOOD GOUT,mini bag.tomaat 10M bio,2.9900
+1000362,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,car-mais stick 7+ bio,1.7500
+1000363,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GOOD GOUT,dierenkoekjes citr10m+ Bio,2.8900
+1000364,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,b.str-apple12m+ bio,3.5900
+1000365,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ORGANIX,rijstwafel appel bio,1.1900
+1000366,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ORGANIX,wortelknabbels bio,2.6900
+1000367,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÉRÉAL,koeken choco delight puur,3.6900
+1000368,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GERLINÉA,repen framboos&chocolade,13.4500
+1000369,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GERLINÉA,chocolade afslankreep,12.9500
+1000370,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GERLINÉA,chocolade puur sinaas,12.9500
+1000371,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GERLINÉA,chocolade puur wit,12.9500
+1000372,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,pure chocolade maltitol,1.2900
+1000373,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GERLINÉA,afslank shake chocolade,13.1900
+1000374,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÉRÉAL GLUCOREGUL,chocolade puur,2.8000
+1000375,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SWEET SWITCH,chocolade 70% puur sv,2.8900
+1000376,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,SWEET SWITCH,puur amandel zeezout,3.1900
+1000377,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GERLINÉA,afslank drink chocolade,8.3700
+1000378,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,smoothie Green6m+ bio,1.1900
+1000379,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,smoothie Red 6m+ bio,0.9900
+1000380,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GOOD GOUT,knijpfruit aardbei-ba.bio,1.5200
+1000381,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ NATURNES,bio appel peer,2.7500
+1000382,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ORGANIX,comp.ap-sin-ban-koek bio,3.5900
+1000383,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DEMAK'UP,droog katoen BIO rond,2.6900
+1000384,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,sjalotten Bio,2.5800
+1000385,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DANONE DANETTE,mousse chocolade,2.9700
+1000386,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OXFAM FAIRTRADE,koffie Highland bio,4.6500
+1000387,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PASSENDALE,Bio gatenkaas 5sn.,3.7900
+1000388,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI BIO,krokante galetten Bio,2.6100
+1000389,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,A.VOGEL HERBAMARE,zeezout Orig.bio,5.3800
+1000390,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,bio rundburger,14.3500
+1000391,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,chipolata Bio,14.3000
+1000392,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,varkensgehakt Bio,12.7500
+1000393,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,americain natuur Bio,13.9500
+1000394,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PUR NATUR,volle yog.fram.bio glas,5.2400
+1000395,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NOCCIOLATA,bio hazelnootpasta,5.1700
+1000396,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NOCCIOLATA,bio hazelnootpast.z.melk,5.6900
+1000397,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LOTUS,Zebra Chocolade,2.5900
+1000398,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,OLA MAGNUM,mini dark cocoa 70%,4.9900
+1000399,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LIPTON,Ginger & Lemon Bio,2.9900
+1000400,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GARNIER,Bio micellair water,5.0000
+1000401,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU LULU,beertje met chocolade,1.6900
+1000402,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MILKA,Choc & Choc,1.4300
+1000403,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,Cookies chocolade,0.5900
+1000404,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BOERINNEKE,bio hazelnootp.zo.palmo,5.1500
+1000405,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,QUAKER CRUESLI,chocolade,3.8900
+1000406,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ALISA'S COOKIES,kattetong chocolade,2.7900
+1000407,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ALISA'S COOKIES,rosette chocolade,2.7900
+1000408,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,coco's chocolade gv,1.6900
+1000409,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EVERYDAY,gevulde koeken chocolade,0.8400
+1000410,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CÔTE D'OR,bio orange,2.4900
+1000411,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MAGNUM,dubbel chocolade hazelnoot,6.2500
+1000412,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,TWININGS,groene thee puur natuur,3.6300
+1000413,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MOINETTE,"bier blond 7,5%vol bio",9.9900
+1000414,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LE PETIT MARS.,dch bio roos/olijfb,2.7300
+1000415,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,Bio runderbrochette,26.2400
+1000416,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LIBEERT,chocolade kip met eitjes,6.4900
+1000417,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU MIKADO,koeken witte chocolade,2.2500
+1000418,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,paashaas puur fairtrade,2.1900
+1000419,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU PRINCE,koeken chocolade,1.1900
+1000420,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CRUMBEL,mini wafel chocolade,4.2000
+1000421,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ZONNATURA,infusie goedemorgen Bio,2.1900
+1000422,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ZONNATURA,infus.goede nachtrust Bio,2.1700
+1000423,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,TEAMASTERS,Silky Touch Bio,4.3900
+1000424,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,PASQUIER,Pitch chocolade stukjes,2.1900
+1000425,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LOTUS SUZY,mini wafel mel.chocolade,2.9700
+1000426,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ALISA'S COOKIES,amandine chocolade,3.1000
+1000427,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,TARAS BOULBA,"Bio 4,5%",6.6000
+1000428,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,MATERNE,lokale appelcompote bio,2.5900
+1000429,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,EAT NATURAL,donkere chocolade GV,2.4900
+1000430,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,LU PRINCE CHOCO PRINCE,chocolade,1.5900
+1000431,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BN MINI,koeken chocolade,1.7900
+1000432,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,DÉLICHOC,pure chocolade,1.4900
+1000433,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,IMPERIAL,tonijn in bio-olijfolie,5.5500
+1000434,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BALADE,verse chocopasta puur,2.9500
+1000435,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,VAHINE,grand cru Madagascar bio,3.9200
+1000436,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GARNIER,Bio dagcrème lavendel,9.3900
+1000437,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,CLIPPER,Lemon & Ginger Bio,2.6900
+1000438,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Gouda Sneetjes 200 g,1.9800
+1000439,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio 6 Verse Eieren M,2.0900
+1000440,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio 12 Verse Eieren M,4.1800
+1000441,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Volvic,Infusion Bio Vleugje Hibiscus Lychee & Passievrucht 6 x 75 cl,12.8500
+1000442,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Halfvolle Melk 6 x 1 L,5.9400
+1000443,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Camembert 250 g,3.1900
+1000444,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Volvic,Infusion Bio 6 x 0.75 L,12.8500
+1000445,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Volvic,Infusion Bio 6 x 0.75 L,12.8500
+1000446,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Fixodent,Original Kleefpasta 70.5 g,6.8900
+1000447,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Jardin BiO Biologische Chocolade Hazelnoot Boterhampasta 350 g,4.7600
+1000448,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Rijstdrank 1 L,1.4900
+1000449,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Soja Koken 25 cl,1.1900
+1000450,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Haverdrank 1 L,1.4900
+1000451,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt 750 g,3.0500
+1000452,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Bio Havermout 500 g,2.8600
+1000453,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Bio Acacia Honing 350 g,6.7800
+1000454,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Dr. Karg's,Bio Chia & Haver 200 g,3.4800
+1000455,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Volle Melk 6 x 1 L,7.5000
+1000456,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Dr. Karg's,Bio Klassiek 3-Zaden 200 g,3.3600
+1000457,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Wafels 4 Granen 100 g,0.6900
+1000458,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Passendale,Classic Bio Sneden 150g,4.5900
+1000459,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt 500 g,1.9600
+1000460,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Meli,Bio Bloemenhoning 250 g,5.0400
+1000461,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Bio Tahin Sesampasta 250 g,4.3600
+1000462,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Honduras 10 Stuks 52 g,2.7900
+1000463,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Lune de Miel,Bio Acaciahoning 375 g,7.2300
+1000464,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Havervlokken 500 g,1.3900
+1000465,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Vanille 150 g,1.0500
+1000466,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Mager 750 g,3.0500
+1000467,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Jacques,Hagelslag Puur 200 g,3.8400
+1000468,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Quaker,Cruesli Chocolade 450gr,4.2100
+1000469,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NAT,Beer Chocolade 6 x 32 g,3.8500
+1000470,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Smaakt,Bio Bloemenhoning 350 g,5.6100
+1000471,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Kwatta,Puur hagelsag (18) 390gm,4.3400
+1000472,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Hazelnootpuree 170 g,3.9900
+1000473,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Tahin Sesampasta 350 g,3.9900
+1000474,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Président,le Brie Bio Organic 200 g,3.8500
+1000475,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt 150 g,0.9400
+1000476,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,L'OR,Koffie Capsules Espresso BIO Intensiteit 7 Nespresso®* Compatibel 10 stuks,3.7900
+1000477,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Les Fermiers du Rocamadour Rocamadour Fermier au Lait Cru x 2 70 g,3.0000
+1000478,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,L'OR,Koffie Capsules Espresso BIO Intensiteit 9 Nespresso®* Compatibel 10 stuks,4.1300
+1000479,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Yogi,"Bio Honeybush, Valeriaanwortel, Rooibos Theezakjes 12 x 1.8 g",3.0100
+1000480,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Verse Melk Vol 1 L,2.1300
+1000481,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Vanille 500 g,2.2800
+1000482,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Krokant Natuur 500 g,2.4900
+1000483,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Krokant 3 Noten 375 g,2.4900
+1000484,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Rombouts,Dessert 10 Filters 70 g,3.9900
+1000485,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Rombouts,Deca 10 Filters 70 g,3.9900
+1000486,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Rombouts,Goudmerk 10 Filters 70 g,3.9900
+1000487,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Arthur,"Grano Pops Gepofte Spelt, Haver & Quinoa met Chocolade 215 g",3.3500
+1000488,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Bosbes 500 g,3.2500
+1000489,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Kers 500 g,3.2500
+1000490,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio 100% Cacao 250 g,2.9900
+1000491,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Havermout Appel 400 g,3.2900
+1000492,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Lactel,Lichte Start Bio 6 x 50 cl,11.4900
+1000493,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Mager 500 g,2.2300
+1000494,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Salakis,100% Schapenmelk Bio 150 g,3.7500
+1000495,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt 6 x 125 g,4.3900
+1000496,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Framboos 160 g,1.6300
+1000497,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Verse Kaas 4 x 100 g,1.4500
+1000498,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Kokosmelk 330 ml,1.6900
+1000499,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Crème de Coco 330 ml,1.7500
+1000500,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Melk Halfvolle 50 cl,0.7900
+1000501,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Lactel,Lichte Start Bio 50 cl,1.9200
+1000502,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Soja Natuur 6 x 100 g,2.0900
+1000503,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Kefir 400 g,2.0500
+1000504,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Yoghurt op z'n Grieks van Schapenmelk - Natur 300 g (2x150 g),1.8900
+1000505,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Rijst Hazelnoot 1 L,1.9900
+1000506,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Société,Roquefort Bio 100 g,4.3900
+1000507,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Soja Natuur 400 g,1.6900
+1000508,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Bjorg,Avoine Cuisine Bio 20 cl,2.0000
+1000509,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Danette,Milk Shake Chocolade 250 g,2.1900
+1000510,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Volle Melk 1 L,1.2500
+1000511,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Halfvolle Melk 1 L,0.9900
+1000512,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Signal,Bio Tandpasta Junior 50 ml,4.0500
+1000513,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HiPP,Biologisch Bio Combiotik 3 Groeimelk vanaf de 12e Maand 800 g,17.6700
+1000514,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Volvic,INFUSION BIO HIBISCUS 75CL,2.1500
+1000515,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Framboos 150 g,1.3600
+1000516,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Zonnatura,Bio Haverzemelen 350 g,3.0000
+1000517,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Kwatta,Chocopasta puur 600g,4.0500
+1000518,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Abrikoos 150 g,1.3600
+1000519,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Skyr 400 g,2.6500
+1000520,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt 1 kg,3.1500
+1000521,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Zure Room 20 cl,1.6500
+1000522,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Panna Cotta 2 x 125 g,2.8300
+1000523,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Balade,Bio Lichte Room 25 cl,2.6600
+1000524,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Bjorg,Bio Haver Drink Calcium 1L,3.1900
+1000525,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Jacques,Matinettes Puur 60% 128 g,2.2800
+1000526,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Céréal,Bio Agavesiroop 350 g,5.2000
+1000527,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Aardbei 150 g,1.3600
+1000528,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Bosbes 150 g,1.3600
+1000529,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Pur Natur,Bio Yoghurt Muesli 160 g,1.4400
+1000530,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Chateaubriand 0.214 kg,6.4900
+1000531,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Chipolata,5.1500
+1000532,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Kip Filet 0.350 kg,8.4000
+1000533,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,BIO Kiwi groen 6 st,3.4900
+1000534,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Rozemarijn in pot,1.2500
+1000535,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Prei Los Verkocht,0.8000
+1000536,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Gesneden Spek 0.226 kg,4.6100
+1000537,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Peterselie in pot,1.1500
+1000538,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Salie in pot,1.1900
+1000539,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Munt in pot,1.1500
+1000540,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Wortelen 1 kg,1.2900
+1000541,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Look 2 st,0.9900
+1000542,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Kerstomaten Mix 250 g,2.4900
+1000543,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Tijm in pot,1.2500
+1000544,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Bieslook in pot,1.1500
+1000545,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Bio Aubergines - 1 stuk,2.4000
+1000546,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Bio Trostomaten - 1 stuk,2.5900
+1000547,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Trostomaten 500 g,2.4900
+1000548,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Rode Bietscheuten 40 g,1.8900
+1000549,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Luzernescheuten 80 g,1.5900
+1000550,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Bio Courgetten - 2 stuks,1.8000
+1000551,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Bio Gember - 1 stuk,0.7500
+1000552,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Citroenen - 2 stuks,1.4700
+1000553,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Hespenworst 100 g,2.9900
+1000554,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Ontbijtspek 100 g,2.7500
+1000555,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Bloemkool,3.2500
+1000556,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Suikermaïs 2 Kolven,2.9900
+1000557,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Biokip Worst,5.2800
+1000558,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Wortels Bio - 5 stuks,0.7200
+1000559,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Bladspinazie 600 g,1.4900
+1000560,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio 8 Galetten 200 g,2.6900
+1000561,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Basilicum in pot,0.9900
+1000562,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Кір Vers,16.8000
+1000563,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Max Havelaar,Bananen Fairtrade 850 g,1.6900
+1000564,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Gerookte Zalm 140 g,6.4900
+1000565,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,BIO Avocado Los verkocht,1.4900
+1000566,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Biokip Chipolata,6.6500
+1000567,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Biokip Onderbouten,8.4000
+1000568,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Céréal,By Nature Bio Vegan Quinoa Luchtige Crackers 3 x 7 Stuks 145 g,3.2000
+1000569,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Koriander in pot,1.1500
+1000570,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Filet de Saxe 80 g,2.9900
+1000571,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Rundslapje Bio,10.6000
+1000572,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Kippenfilet 100 g,3.0900
+1000573,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Aubergines 2 st,3.4900
+1000574,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Broccoli 1 st,2.2900
+1000575,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Bio + Raw Chiazaad 200 g,6.2200
+1000576,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Zonnebloempitten Bio 200 g,2.1700
+1000577,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Citroenen 500 g,1.6900
+1000578,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Aloe Vera 1 st,2.2900
+1000579,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Biokip Bouten,7.8000
+1000580,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Gele Ajuinen 750g,1.0900
+1000581,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Sjalotten 250g,1.3900
+1000582,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Courgetten 500g,1.9900
+1000583,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Snijbonen 500g,3.4900
+1000584,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Pompelmoes 2 st,1.9900
+1000585,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Gerookte Zalm 70 g,3.4900
+1000586,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio 6 Pannenkoeken 330 g,1.6900
+1000587,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,BONI,Fairtrade wit praline,1.9900
+1000588,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,HERO BABY,Bio appel / peer 4m,1.6500
+1000589,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Biokip Burger,3.7500
+1000590,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Biokip Gekruid Vlees,6.7500
+1000591,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Zak voor Fruit & Groenten in BIO Katoen - Willekeurig patroon,0.5500
+1000592,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Cashew Bio 200 g,6.8800
+1000593,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Lijnzaad Bio 200 g,2.0700
+1000594,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Nutridia,Zadenmengeling Bio 200 g,2.9600
+1000595,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Groene Selder 1 st,2.2900
+1000596,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Colruyt,rode biet blokjes Bio,1.8900
+1000597,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,GARNIER,Bio rein.gel detox citr.,7.9900
+1000598,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Preischeuten 50 g,1.6900
+1000599,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio sojascheuten 200 g,1.6900
+1000600,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,,Fairtrade-juniorbananen,0.0000
+1000601,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Dille in pot,1.0900
+1000602,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Charentais Meloen 1 st,4.9900
+1000603,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Nectarines 500 g,2.9900
+1000604,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,ELLA'S KITCHEN,orange mul.6M+ bio,3.9900
+1000605,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Sla,2.2900
+1000606,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,Bio Ijsbergsla,1.9900
+1000607,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,Carrefour,BIO Komkommer,0.9500
+1000608,Delhaize,Chocolade | Puur | 70% | Bio | Fairtrade,1.2900,NESTLÉ,sn.crackers wortel bio 12m+,2.9900
