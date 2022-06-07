@@ -1,17 +1,105 @@
 id,left_brand,left_productName,left_price,right_brand,right_productName,right_price
-387535,Delhaize,Chocolade Puur  70%  Bio  Fairtrade,1.2900,AH,Chocoladepasta puur,1.2500
-388840,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,So Vegan So Fine,Pure chocoladepasta bio,2.9900
-389263,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,AH,Chocolade hagel puur,1.2900
-390381,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Côte d'Or,70% chocolade reep extra puur,1.9900
-391716,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Alter Eco,Dark chocolate peru 85% bio,2.5900
-391851,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Alter Eco,Dark chocolate peru 90% bio,2.7900
-392154,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Alter Eco,Dark chocolate peru 75% bio,2.5900
-395745,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,BONI BIO,chocolade puur hazeln. FT,1.6400
-395816,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,GALLER,chocolade 70% noir orange,2.1000
-395908,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,BONI BIO,chocolade puur FT,1.1900
-395910,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,BONI,Fairtrade chocolade puur pral.,1.5700
-399333,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,SWEET SWITCH,chocolade 70% puur sv,2.8900
-415140,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Fitness,Pure Chocolade Ontbijtgranen 450 g,5.3600
-415756,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Nesquik,Ontbijtgranen Chocolade BIO 375 g,4.5700
-415762,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Chocapic,BIO Chocolade Ontbijtgranen 375 g,4.6900
-416193,Delhaize,Chocolade  Puur  70%  Bio  Fairtrade,1.2900,Rombouts,Bio & Fairtrade Bonen 500 g,9.0900
+379438,Delhaize,Chocolade  Puur  70%    ,1.2900,TARTICHOC,Ontbijtchocolade puur,1.6900
+380179,Delhaize,Chocolade  Puur  70%    ,1.2900,URSI,Chocoladepudding,1.1900
+380573,Delhaize,Chocolade  Puur  70%    ,1.2900,AMBIENTE BIO,chocolade,1.1900
+380577,Delhaize,Chocolade  Puur  70%    ,1.2900,CHÂTEAU,Chocolade,1.5500
+380578,Delhaize,Chocolade  Puur  70%    ,1.2900,MERCI,Chocolade Merci,2.4900
+380584,Delhaize,Chocolade  Puur  70%    ,1.2900,AMBIENTE,Chocolade met praliné,1.4500
+380610,Delhaize,Chocolade  Puur  70%    ,1.2900,KINDER,Chocolade,1.6900
+380642,Delhaize,Chocolade  Puur  70%    ,1.2900,CÔTE D'OR,Pure chocolade,1.6900
+380645,Delhaize,Chocolade  Puur  70%    ,1.2900,CHÂTEAU,Pure chocolade,1.4900
+380950,Delhaize,Chocolade  Puur  70%    ,1.2900,OLÉ,Chocoladereep 10 st.,3.1500
+386581,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Puur chocolade druppels,1.9900
+386592,Delhaize,Chocolade  Puur  70%    ,1.2900,Almhof,Chocolade mousse,1.5900
+386665,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Chocolade mousse puur,1.1900
+387186,Delhaize,Chocolade  Puur  70%    ,1.2900,Quaker,Cruesli chocolade,3.4900
+387280,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Chocolade roomijs,1.7900
+387303,Delhaize,Chocolade  Puur  70%    ,1.2900,Imperial,Pudding chocolade,1.9900
+387340,Delhaize,Chocolade  Puur  70%    ,1.2900,Dr. Oetker,Mug cake chocolade,1.3900
+387441,Delhaize,Chocolade  Puur  70%    ,1.2900,Dr. Oetker,Muffins chocolade,2.9900
+387505,Delhaize,Chocolade  Puur  70%    ,1.2900,Paschka,Chocolade,2.4900
+387535,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Chocoladepasta puur,1.2500
+388003,Delhaize,Chocolade  Puur  70%    ,1.2900,De Ruijter,Chocoladehagel puur,2.9900
+388840,Delhaize,Chocolade  Puur  70%    ,1.2900,So Vegan So Fine,Pure chocoladepasta ,2.9900
+388843,Delhaize,Chocolade  Puur  70%    ,1.2900,AH Glutenvrij,Mueslireep chocolade,2.4900
+388957,Delhaize,Chocolade  Puur  70%    ,1.2900,Kinder,Chocolade,1.9900
+388969,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Pure chocolade vlokken,0.9900
+388975,Delhaize,Chocolade  Puur  70%    ,1.2900,Lotus,Dinosaurus chocolade,1.4900
+389263,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Chocolade hagel puur,1.2900
+389267,Delhaize,Chocolade  Puur  70%    ,1.2900,Milka,Chocolade,0.9900
+389336,Delhaize,Chocolade  Puur  70%    ,1.2900,Boerinneke Marino,Chocopasta puur,2.8900
+389717,Delhaize,Chocolade  Puur  70%    ,1.2900,De Ruijter,Chocoladehagel extra puur,2.9900
+390381,Delhaize,Chocolade  Puur  70%    ,1.2900,Côte d'Or,70% chocolade reep extra puur,1.9900
+390413,Delhaize,Chocolade  Puur  70%    ,1.2900,AH Biologisch,Extra pure chocola,1.2900
+391317,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Mueslireep chocolade,1.5900
+391430,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Digestive pure chocola,1.1900
+391851,Delhaize,Chocolade  Puur  70%    ,1.2900,Alter Eco,Dark chocolate peru 90% ,2.7900
+392146,Delhaize,Chocolade  Puur  70%    ,1.2900,Delicata,Chocolade 75%,1.2900
+392154,Delhaize,Chocolade  Puur  70%    ,1.2900,Alter Eco,Dark chocolate peru 75% ,2.5900
+392449,Delhaize,Chocolade  Puur  70%    ,1.2900,AH,Peanut chocolade bar,1.2900
+392529,Delhaize,Chocolade  Puur  70%    ,1.2900,M&M'S,Crispy chocolade,3.6900
+394916,Delhaize,Chocolade  Puur  70%    ,1.2900,DANONE DANETTE,crème chocolade,3.9800
+394917,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,pudding chocolade,2.8300
+394924,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,vla chocolade,1.5900
+394932,Delhaize,Chocolade  Puur  70%    ,1.2900,LINDAHLS,pudding chocolade,1.3900
+395090,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,chocopasta puur,1.7500
+395100,Delhaize,Chocolade  Puur  70%    ,1.2900,KWATTA,chocopasta puur,2.9500
+395102,Delhaize,Chocolade  Puur  70%    ,1.2900,BOERINNEKE,chocopasta puur,5.8900
+395106,Delhaize,Chocolade  Puur  70%    ,1.2900,BOERINNEKE,chocopasta puur,2.8900
+395216,Delhaize,Chocolade  Puur  70%    ,1.2900,LOTUS,speculoos chocolade,1.4900
+395269,Delhaize,Chocolade  Puur  70%    ,1.2900,KELLOGG'S SPECIAL K,pure chocolade,6.0300
+395279,Delhaize,Chocolade  Puur  70%    ,1.2900,NESTLÉ NESQUIK,duo chocolade,3.7900
+395286,Delhaize,Chocolade  Puur  70%    ,1.2900,NESTLÉ FITNESS,Dark Chocolate,4.7800
+395376,Delhaize,Chocolade  Puur  70%    ,1.2900,LU CRACOTTE CRAQUINETTE,chocolade,3.2500
+395434,Delhaize,Chocolade  Puur  70%    ,1.2900,QUAKER,bars chocolade,2.5900
+395551,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,Muffins chocolade,2.4900
+395566,Delhaize,Chocolade  Puur  70%    ,1.2900,EVERYDAY,Sprits chocolade,0.9400
+395570,Delhaize,Chocolade  Puur  70%    ,1.2900,BAHLSEN PICK UP!,chocolade,3.7800
+395574,Delhaize,Chocolade  Puur  70%    ,1.2900,BAHLSEN PICK UP!,pure chocolade,3.7800
+395578,Delhaize,Chocolade  Puur  70%    ,1.2900,BAHLSEN CHOCO LEIBNIZ,pure chocol.,2.2900
+395581,Delhaize,Chocolade  Puur  70%    ,1.2900,LU MIKADO,koeken pure chocolade,1.6900
+395586,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,Sprits boter-chocolade,2.8900
+395642,Delhaize,Chocolade  Puur  70%    ,1.2900,KOETJESREEP,chocoladereep,1.3900
+395649,Delhaize,Chocolade  Puur  70%    ,1.2900,EVERYDAY,chocolade melk,0.7950
+395686,Delhaize,Chocolade  Puur  70%    ,1.2900,RIEGELEIN,chocoladefiguren,4.5900
+395689,Delhaize,Chocolade  Puur  70%    ,1.2900,PAASEIEREN,pure chocolade in zak,1.4900
+395703,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,chocolade paaskip,2.2600
+395704,Delhaize,Chocolade  Puur  70%    ,1.2900,NESTLÉ CRUNCH,chocolade,1.1900
+395711,Delhaize,Chocolade  Puur  70%    ,1.2900,NESTLÉ GALAK,chocolade popri wit,3.5500
+395715,Delhaize,Chocolade  Puur  70%    ,1.2900,EVERYDAY,chocolade wit,1.1800
+395723,Delhaize,Chocolade  Puur  70%    ,1.2900,NESTLÉ GALAK,chocolade wit,3.4900
+395727,Delhaize,Chocolade  Puur  70%    ,1.2900,NESTLÉ GALAK,chocolade popri wit,3.2900
+395745,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI BIO,chocolade puur hazeln. FT,1.6400
+395816,Delhaize,Chocolade  Puur  70%    ,1.2900,GALLER,chocolade 70% noir orange,2.1000
+395844,Delhaize,Chocolade  Puur  70%    ,1.2900,CÔTE D'OR,Zero pure chocolade,2.9900
+395900,Delhaize,Chocolade  Puur  70%    ,1.2900,EVERYDAY,chocolade puur,0.7400
+395902,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,chocolade puur mini,2.2900
+395906,Delhaize,Chocolade  Puur  70%    ,1.2900,GALLER,chocolade 70% noir intense,2.1000
+395908,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI BIO,chocolade puur FT,1.1900
+395910,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI, chocolade puur pral.,1.5700
+396276,Delhaize,Chocolade  Puur  70%    ,1.2900,DR.OETKER SAROMA,pudding chocolade,0.8910
+396378,Delhaize,Chocolade  Puur  70%    ,1.2900,DR.OETKER,chocoladetaart,6.9000
+397353,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,roomijs chocolade,2.6800
+397354,Delhaize,Chocolade  Puur  70%    ,1.2900,IJSBOERKE,roomijs chocolade,7.4300
+397396,Delhaize,Chocolade  Puur  70%    ,1.2900,OLA CORNETTO,chocolade,4.5900
+397453,Delhaize,Chocolade  Puur  70%    ,1.2900,IJSBOERKE JACQUES,chocolade bar,4.2900
+397811,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI BIO,chocoladepoeder,7.5800
+398000,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,topping chocolade,3.0500
+398014,Delhaize,Chocolade  Puur  70%    ,1.2900,IMPERIAL,topping chocolade,3.2900
+399319,Delhaize,Chocolade  Puur  70%    ,1.2900,GERLINÉA,chocolade puur sinaas,12.9500
+399321,Delhaize,Chocolade  Puur  70%    ,1.2900,GERLINÉA,chocolade puur wit,12.9500
+399327,Delhaize,Chocolade  Puur  70%    ,1.2900,GERLINÉA,chocoladepudding,5.5900
+399328,Delhaize,Chocolade  Puur  70%    ,1.2900,BONI,pure chocolade maltitol,1.2900
+399331,Delhaize,Chocolade  Puur  70%    ,1.2900,CÉRÉAL GLUCOREGUL,chocolade puur,2.8000
+399333,Delhaize,Chocolade  Puur  70%    ,1.2900,SWEET SWITCH,chocolade 70% puur sv,2.8900
+399564,Delhaize,Chocolade  Puur  70%    ,1.2900,POLY PALETTE,chocoladebruin 750,6.7500
+401559,Delhaize,Chocolade  Puur  70%    ,1.2900,DANONE DANETTE,mousse chocolade,2.9700
+406413,Delhaize,Chocolade  Puur  70%    ,1.2900,LOTUS,Zebra Chocolade,2.5900
+407748,Delhaize,Chocolade  Puur  70%    ,1.2900,QUAKER CRUESLI,chocolade,3.8900
+407786,Delhaize,Chocolade  Puur  70%    ,1.2900,ALISA'S COOKIES,rosette chocolade,2.7900
+408607,Delhaize,Chocolade  Puur  70%    ,1.2900,MARS,chocoladereep,3.7900
+408713,Delhaize,Chocolade  Puur  70%    ,1.2900,LU PRINCE CHOCO PRINCE,chocolade,1.5900
+408781,Delhaize,Chocolade  Puur  70%    ,1.2900,DÉLICHOC,pure chocolade,1.4900
+414621,Delhaize,Chocolade  Puur  70%    ,1.2900,Nutridia, Granola Chocolade 300 g,4.2100
+414905,Delhaize,Chocolade  Puur  70%    ,1.2900,Quaker,Cruesli Chocolade 450gr,4.2100
+415877,Delhaize,Chocolade  Puur  70%    ,1.2900,Kwatta,Chocopasta puur 600g,4.0500
